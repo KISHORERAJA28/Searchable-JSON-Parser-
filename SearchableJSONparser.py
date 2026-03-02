@@ -103,6 +103,3 @@ class JSONSearchable:
                 current = current.get(seg) if isinstance(current, dict) else None
                 
         return current
-
-
-p
