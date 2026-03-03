@@ -107,4 +107,4 @@ class JSONSearchable:
 
 print
         ptint
-pti
+pt
